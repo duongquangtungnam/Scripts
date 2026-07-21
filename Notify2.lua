@@ -5,7 +5,7 @@ until game.Players.LocalPlayer.Team ~= nil
 and game.Players.LocalPlayer.Character
 and game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
 local Scripts = {
-    "https://pastefy.app/hP8LGdie/raw",
+    "https://pastefy.app/64wIR0kk/raw",
     "https://raw.githubusercontent.com/duongquangtungnam/Scripts/refs/heads/main/NotifyBloxFruit.lua",
 }
 for _, url in pairs(Scripts) do
