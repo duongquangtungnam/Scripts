@@ -1,6 +1,6 @@
 task.spawn(function()
     pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/duongquangtungnam/Scripts/refs/heads/main/Notify2.lua"))()
+        loadstring(game:HttpGet("https://github.com/duongquangtungnam/Scripts/blob/main/NotifyBloxFruit.lua"))()
     end)
 end)
 
